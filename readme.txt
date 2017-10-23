@@ -1,6 +1,6 @@
 2017-10-23
 
-Dunlap / Loros data curation/curation of the pipeline itself  set up by Alec Crowell
+Dunlap / Loros data curation/curation of the pipeline itself set up by Alec Crowell
 
 https://www.udacity.com/course/how-to-use-git-and-github--ud775
 
